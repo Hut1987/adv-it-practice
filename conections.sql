@@ -1,3 +1,6 @@
+
+asfds
+
 SELECT  @@Servername AS Server ,
         DB_NAME(database_id) AS DatabaseName ,
         COUNT(database_id) AS Connections ,
